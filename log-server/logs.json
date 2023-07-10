@@ -1,0 +1,220 @@
+{
+  "logs": [
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 08:04",
+      "action": "logged in",
+      "id": 1
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 08:50",
+      "action": "uploaded undefined",
+      "id": 2
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 08:50",
+      "action": "uploaded undefined",
+      "id": 3
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 08:52",
+      "action": "accessed  reource 'Leitura de um inteiro com getchar()'",
+      "id": 4
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 08:52",
+      "action": "accessed  reource 'Leitura de um inteiro com getchar()'",
+      "id": 5
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 08:54",
+      "action": "logged out",
+      "id": 6
+    },
+    {
+      "user": "RD",
+      "date": "2023-07-05 08:55",
+      "action": "registered",
+      "id": 7
+    },
+    {
+      "user": "RD",
+      "date": "2023-07-05 08:55",
+      "action": "logged in",
+      "id": 8
+    },
+    {
+      "user": "RD",
+      "date": "2023-07-05 08:58",
+      "action": "logged out",
+      "id": 9
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 08:58",
+      "action": "logged in",
+      "id": 10
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 08:59",
+      "action": "uploaded undefined",
+      "id": 11
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:01",
+      "action": "logged out",
+      "id": 12
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:01",
+      "action": "logged in",
+      "id": 13
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:01",
+      "action": "deleted the news '64a530d9e265ca43a4d755a8'",
+      "id": 14
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:01",
+      "action": "removed the resource undefined",
+      "id": 15
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:01",
+      "action": "logged out",
+      "id": 16
+    },
+    {
+      "user": "RD",
+      "date": "2023-07-05 09:02",
+      "action": "logged in",
+      "id": 17
+    },
+    {
+      "user": "RD",
+      "date": "2023-07-05 09:02",
+      "action": "uploaded undefined",
+      "id": 18
+    },
+    {
+      "user": "RD",
+      "date": "2023-07-05 09:02",
+      "action": "searched for type 'Exam'",
+      "id": 19
+    },
+    {
+      "user": "RD",
+      "date": "2023-07-05 09:03",
+      "action": "logged out",
+      "id": 20
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:03",
+      "action": "logged in",
+      "id": 21
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:03",
+      "action": "searched for 'inteiro'",
+      "id": 22
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:05",
+      "action": "edited the news '64a5319cf7ef75a119e568c2'",
+      "id": 23
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:05",
+      "action": "edited the news '64a5319cf7ef75a119e568c2'",
+      "id": 24
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:07",
+      "action": "accessed  reource 'Avaliação: Representação e Processamento de Conhecimento na Web'",
+      "id": 25
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:11",
+      "action": "accessed  reource 'Avaliação: Representação e Processamento de Conhecimento na Web'",
+      "id": 26
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:13",
+      "action": "accessed  reource 'Avaliação: Representação e Processamento de Conhecimento na Web'",
+      "id": 27
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:13",
+      "action": "accessed  reource 'Avaliação: Representação e Processamento de Conhecimento na Web'",
+      "id": 28
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:14",
+      "action": "accessed  reource 'Avaliação: Representação e Processamento de Conhecimento na Web'",
+      "id": 29
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:15",
+      "action": "accessed  reource 'Avaliação: Representação e Processamento de Conhecimento na Web'",
+      "id": 30
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:15",
+      "action": "accessed  reource 'Avaliação: Representação e Processamento de Conhecimento na Web'",
+      "id": 31
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:15",
+      "action": "accessed  reource 'Avaliação: Representação e Processamento de Conhecimento na Web'",
+      "id": 32
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:23",
+      "action": "accessed  reource 'Avaliação: Representação e Processamento de Conhecimento na Web'",
+      "id": 33
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:23",
+      "action": "downloaded the resource 'rpcw-2022-normal.mhtml'",
+      "id": 34
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 09:23",
+      "action": "downloaded the resource 'rpcw-2022-normal.mhtml'",
+      "id": 35
+    },
+    {
+      "user": "jpxfr",
+      "date": "2023-07-05 14:27",
+      "action": "accessed  reource 'Avaliação: Representação e Processamento de Conhecimento na Web'",
+      "id": 36
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+version: '3'
+services:
+  api-service:
+    restart: always
+    image: jprp111/api-server:2023
+    ports:
+      - 42069:42069
+    depends_on: 
+      - mongo
+  app-service:
+    restart: always
+    image: jprp111/app-server:2023
+    ports:
+      - 42169:42169
+    volumes:
+      - filesystem:/app/fileStorage
+    depends_on: 
+      - auth-service
+      - api-service
+      - log-service
+  auth-service:
+    restart: always
+    image: jprp111/auth-server:2023
+    ports:
+      - 42269:42269
+    depends_on: 
+      - mongo
+  log-service:
+    restart: always
+    image: jprp111/log-server:2023
+    ports:
+      - 42369:42369
+  mongo:
+    restart: always
+    container_name: mongodb
+    image: mongo
+    ports:
+      - 27017:27017
+    volumes:
+      - mongodb_volum:/data/db
+volumes:
+ mongodb_volum:
+ filesystem:
+
+  mongodb:
+    container_name: alunos-mongodb
+    image: mongo
+    restart: always
+    volumes:
+      - dbdata:/data/db
+    networks:
+      - alunos-network
+
+networks:
+  resources-network:
+    driver: bridge
+  users-network:
+    driver: bridge
+  main-network:
+    driver: bridge
